@@ -1,0 +1,47 @@
+product_id,product_name,category,subcategory,cost_price,selling_price,brand,stock_quantity,rating,num_reviews,is_active
+PROD0001,Men's Running Shoes,Footwear,Sports Shoes,800,1999,Nike,74,4.6,12238,True
+PROD0002,Women's Casual Sneakers,Footwear,Casual Shoes,600,1499,Puma,49,4.2,2357,True
+PROD0003,Formal Oxford Shoes,Footwear,Formal Shoes,900,2499,Bata,113,3.9,14811,True
+PROD0004,Kids Sport Sandals,Footwear,Sandals,300,799,Relaxo,0,4.3,4154,False
+PROD0005,Flip Flops Combo,Footwear,Sandals,80,199,Havaianas,338,4.4,2902,True
+PROD0006,Men's Slim Fit Jeans,Apparel,Bottomwear,500,1299,Levi's,317,3.8,3533,True
+PROD0007,Women's Kurti - Cotton,Apparel,Ethnic Wear,250,699,Biba,371,3.5,4989,True
+PROD0008,Men's Polo T-Shirt,Apparel,Topwear,200,599,US Polo,463,4.2,8443,True
+PROD0009,Women's Yoga Pants,Apparel,Activewear,350,899,Decathlon,367,4.1,128,True
+PROD0010,Winter Jacket - Men,Apparel,Outerwear,1200,3499,Allen Solly,227,3.2,12613,True
+PROD0011,Kids Cotton Frock,Apparel,Kids Wear,180,499,Hopscotch,128,3.3,572,True
+PROD0012,Men's Formal Shirt,Apparel,Topwear,400,999,Peter England,476,3.3,4537,True
+PROD0013,"Samsung 65"" 4K TV",Electronics,Television,25000,45999,Samsung,469,3.8,1360,True
+PROD0014,OnePlus Nord CE 4,Electronics,Smartphones,12000,24999,OnePlus,462,4.0,7494,True
+PROD0015,boAt Airdopes 141,Electronics,Audio,600,1299,boAt,122,3.6,11673,True
+PROD0016,Logitech Wireless Mouse,Electronics,Peripherals,350,799,Logitech,420,4.5,2114,True
+PROD0017,HP Laptop 15s,Electronics,Laptops,32000,54999,HP,368,3.8,5093,True
+PROD0018,Mi Smart Band 8,Electronics,Wearables,1200,2499,Xiaomi,206,4.7,1862,True
+PROD0019,Canon EOS 1500D,Electronics,Cameras,22000,39999,Canon,305,3.3,11848,True
+PROD0020,JBL Flip 6 Speaker,Electronics,Audio,3500,7499,JBL,294,3.7,5473,True
+PROD0021,Prestige Pressure Cooker 5L,Home & Kitchen,Cookware,700,1799,Prestige,7,4.0,5653,True
+PROD0022,Philips Air Fryer,Home & Kitchen,Appliances,3500,7999,Philips,163,3.4,4090,True
+PROD0023,Wooden Bookshelf 5-Tier,Home & Kitchen,Furniture,2500,5999,Nilkamal,416,3.6,14354,True
+PROD0024,Bed Sheet Set - King,Home & Kitchen,Bedding,400,999,Bombay Dyeing,0,4.3,6576,False
+PROD0025,Non-stick Cookware Set,Home & Kitchen,Cookware,800,1999,Hawkins,282,3.3,9886,True
+PROD0026,Instant Pot Duo 7-in-1,Home & Kitchen,Appliances,4500,9999,Instant Pot,165,4.2,1819,True
+PROD0027,Dyson V12 Vacuum,Home & Kitchen,Appliances,12000,29999,Dyson,490,4.1,5417,True
+PROD0028,Himalaya Face Wash,Beauty,Skincare,50,149,Himalaya,176,3.4,8808,True
+PROD0029,Lakme CC Cream,Beauty,Makeup,180,449,Lakme,0,3.6,5588,False
+PROD0030,WOW Vitamin C Serum,Beauty,Skincare,250,599,WOW,252,3.2,5216,True
+PROD0031,Mamaearth Sunscreen SPF 50,Beauty,Skincare,150,349,Mamaearth,401,3.7,7562,True
+PROD0032,Biotique Bio Dandruff Shampoo,Beauty,Haircare,120,299,Biotique,190,4.0,4666,True
+PROD0033,Colorbar Lipstick,Beauty,Makeup,200,499,Colorbar,303,3.9,13908,True
+PROD0034,Whey Protein 2kg,Sports & Fitness,Supplements,1800,3999,MuscleBlaze,292,4.2,9633,True
+PROD0035,Yoga Mat 6mm,Sports & Fitness,Equipment,400,999,Boldfit,156,4.3,521,True
+PROD0036,Adjustable Dumbbell Set,Sports & Fitness,Equipment,1500,3499,Kore,357,4.6,6344,True
+PROD0037,Cricket Bat - English Willow,Sports & Fitness,Cricket,2500,5999,SG,393,3.7,2902,True
+PROD0038,Garmin Forerunner 55,Sports & Fitness,Wearables,8000,16999,Garmin,10,3.7,13715,True
+PROD0039,The Alchemist (Book),Books,Fiction,80,299,HarperCollins,278,4.5,8225,True
+PROD0040,Atomic Habits,Books,Self-Help,100,399,Penguin,388,4.0,9275,True
+PROD0041,NCERT Class 10 Science,Books,Academic,60,180,NCERT,142,4.7,13304,True
+PROD0042,Harry Potter Box Set,Books,Fiction,600,1499,Bloomsbury,95,3.7,6256,True
+PROD0043,Lego Classic Medium Box,Toys,LEGO,1200,2999,LEGO,294,4.7,294,True
+PROD0044,Remote Control Car,Toys,RC Toys,500,1199,Maisto,458,3.2,2706,True
+PROD0045,Barbie Dreamhouse,Toys,Dolls,3000,6999,Mattel,377,3.7,4597,True
+PROD0046,Funskool Chess Set,Toys,Board Games,200,499,Funskool,0,3.5,2745,True
